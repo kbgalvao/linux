@@ -1,0 +1,29 @@
+body{
+    min-height: 75rem;
+    /*background-image: url("../img/asterisk-software.png");*/
+}
+
+#link{
+    color: white;
+   /* font-size: 16px;*/
+    font-family: arial, helvetica, sans-serif;
+    font-family: 'Righteous', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+#dropdown01{
+     color: white;
+    text-decoration: none;
+    font-family: 'Righteous', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
+
+#dahdi{
+    color: white;
+    font-family: arial, helvetica, sans-serif;
+    font-family: 'Righteous', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Fredoka One', cursive;
+}
